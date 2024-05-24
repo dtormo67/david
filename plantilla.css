@@ -1,0 +1,41 @@
+body {
+  box-sizing: border-box;
+  background-color: LightSteelBlue;
+}
+
+.logo {
+  width: 90px;
+  height: 105px;
+  float:left;
+}
+
+.encabezado {
+  width: 350px;
+  height:105px;
+  padding: 3px;
+  color: rgb(2, 2, 53);
+  text-align: center;
+  border: black solid 1px;
+}
+
+#logo {
+  width: 80px;
+  height: 100px;
+  padding: 5px;
+}
+
+h2, h3 {
+  margin: 4px 5px;
+}
+
+.formulario {
+  width: 240px;
+  height: 25px;
+  margin: 10px 50px;
+  padding: 10px;
+  border: blue solid 1px;
+}
+
+input[type="text"] {
+  width: 40px;
+}
